@@ -1,0 +1,64 @@
+2024-11-17 11:25:06,431 - ERROR - Error loading model: [Errno 2] No such file or directory: 'models/sentiment_model.pkl'
+2024-11-17 11:25:06,431 - ERROR - Error predicting sentiment: [Errno 2] No such file or directory: 'models/sentiment_model.pkl'
+2024-11-17 11:25:06,431 - ERROR - Application error: [Errno 2] No such file or directory: 'models/sentiment_model.pkl'
+2024-11-17 11:25:53,923 - INFO - Successfully loaded dataset from tripadvisor_hotel_reviews.csv
+2024-11-17 11:25:53,954 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 11:25:53,961 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 11:26:01,334 - ERROR - Error training model: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/gruu/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/share/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2024-11-17 11:26:01,334 - ERROR - Application error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/gruu/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/share/nltk_data'
+    - '/run/media/gruu/New Volume/MLProject/ML/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2024-11-17 11:27:25,168 - INFO - Successfully loaded dataset from tripadvisor_hotel_reviews.csv
+2024-11-17 11:27:25,185 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 11:27:25,193 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 11:47:02,082 - INFO - Model saved successfully
+2024-11-17 11:56:23,302 - INFO - Model loaded successfully
+2024-11-17 12:18:57,174 - INFO - Model loaded successfully
+2024-11-17 12:19:32,912 - INFO - Successfully loaded dataset from tripadvisor_hotel_reviews.csv
+2024-11-17 12:19:32,929 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 12:19:32,937 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-17 12:39:44,611 - INFO - Model saved successfully
+2024-11-17 22:19:06,419 - INFO - Model loaded successfully
+2024-11-21 10:09:10,576 - INFO - Model loaded successfully
